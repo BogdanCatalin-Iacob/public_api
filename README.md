@@ -5,6 +5,8 @@ This app displays the date, time, and a random message on home page.
 On api/random page will display a random number between 0 and a user set limit, and a user text.
 This app is live on [Pythonanywhere](MisterBogdan.pythonanywhere.com) for 3 months, ending in Feb 2024.
 
+Number limit and text must be added manually to url as args to endpoint "api/random?number=15000&text=hello"
+
 ## Project Creation
 
 This project was developed using a [VS Code](https://code.visualstudio.com/). The code was committed to [Git](https://git-scm.com) and pushed to [GitHub](https://github.com) using the terminal.
